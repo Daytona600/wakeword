@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "willow",
   "author": "David Stainton",
-  "model": "https://github.com/Daytona600/wakeword/blob/main/wil_low.tflite",
+  "model": "wil_low.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
