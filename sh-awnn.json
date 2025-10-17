@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "sh-awnn",
+  "wake_word": "shaun",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "sh-awnn.tflite",
+  "model": "shaun.tflite",
   "trained_languages": [
     "en"
   ],
